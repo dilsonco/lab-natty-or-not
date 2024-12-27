@@ -10,7 +10,8 @@ Composição de imagem com expansão por IA
 IA Generativa do APP Peachy
 
 ## 🧐 Processo de Criação
-Capturei a imagem do objeto, removi o fundo original e solicitei que a IA realizasse a composição de um novo fundo de acordo com o tema.
+Capturei a imagem do objeto, removi o fundo original e solicitei
+que a IA realizasse a composição de um novo fundo de acordo com o tema.
 
 ## 🚀 Resultados
 
